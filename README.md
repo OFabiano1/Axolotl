@@ -6,6 +6,7 @@ This repository contains implementations of the "Axolotl!" concept in multiple p
 
 Currently, the following programming languages are included in this repository:
 
+- **BF**
 - **C**
 - **C++**
 - **C#**
@@ -27,3 +28,4 @@ Currently, the following programming languages are included in this repository:
 - **Shell Script**
 - **Swift**
 - **TypeScript**
+- **VBScript**
