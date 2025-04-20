@@ -1,4 +1,6 @@
-# Axolotl in MULTIPLE PROGRAMMING LANGUAGES!
+# 💻 Axolotl in MULTIPLE PROGRAMMING LANGUAGES!
+
+[Click here to join the Discord Axolotl BR ](https://dsc.gg/axolote )
 
 This repository contains implementations of the "Axolotl!" concept in multiple programming languages. Each implementation demonstrates how "Axolotl!" can be expressed in different coding environments.
 
