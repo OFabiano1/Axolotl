@@ -1,4 +1,4 @@
-# (PT/BR) 💻 Axolotl em VÁRIAS LÍNGUAS DE PROGRAMAÇÃO!
+# PT/BR 💻 Axolotl em VÁRIAS LÍNGUAS DE PROGRAMAÇÃO!
 
 [Clique aqui para entrar no Servidor do discord Axolotl BR](https://dsc.gg/axolote )
 
@@ -34,7 +34,7 @@ Atualmente, as seguintes linguagens de programação estão presentes neste repo
 
 ## description in english
 
-# (EN/US)💻 Axolotl in MULTIPLE PROGRAMMING LANGUAGES!
+# EN/US💻 Axolotl in MULTIPLE PROGRAMMING LANGUAGES!
 
 [Click here to join the Discord Axolotl BR ](https://dsc.gg/axolote )
 
