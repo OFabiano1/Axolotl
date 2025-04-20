@@ -1,4 +1,4 @@
-# Axolotl em VÁRIAS LÍNGUAS DE PROGRAMAÇÃO! 🦎💻
+# 💻 Axolotl em VÁRIAS LÍNGUAS DE PROGRAMAÇÃO!
 
 [Clique aqui para entrar no Servidor do discord Axolotl BR](https://dsc.gg/axolote )
 
