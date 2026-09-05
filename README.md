@@ -1,12 +1,6 @@
-# PT/BR 💻 Axolotl em VÁRIAS LÍNGUAS DE PROGRAMAÇÃO!
+# Axolotl em todas as linguagems de programação
 
-[Clique aqui para entrar no Servidor do discord Axolotl BR](https://dsc.gg/axolote )
-
-Este repositório contém implementações do conceito "Axolotl!" em várias linguagens de programação. Cada implementação demonstra como o "Axolotl!" pode ser expresso em diferentes ambientes de desenvolvimento.
-
-## Linguagens Incluídas
-
-Atualmente, as seguintes linguagens de programação estão presentes neste repositório:
+[Clique aqui para entrar no Servidor do discord Axolotl BR](https://dsc.gg/axolotlbr )
 
 - **BF**
 - **C**
@@ -36,7 +30,7 @@ Atualmente, as seguintes linguagens de programação estão presentes neste repo
 
 # EN/US💻 Axolotl in MULTIPLE PROGRAMMING LANGUAGES!
 
-[Click here to join the Discord Axolotl BR ](https://dsc.gg/axolote )
+[Click here to join the Discord Axolotl BR ](https://dsc.gg/axolotlbr )
 
 This repository contains implementations of the "Axolotl!" concept in multiple programming languages. Each implementation demonstrates how "Axolotl!" can be expressed in different coding environments.
 
