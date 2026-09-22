@@ -1,63 +1,47 @@
-# Axolotl em todas as linguagems de programação
+# Axolotl in MULTIPLE PROGRAMMING LANGUAGES! 💻
 
-[Clique aqui para entrar no Servidor do discord Axolotl BR](https://dsc.gg/axolotlbr )
+[![Discord](https://img.shields.io/badge/Join%20our%20Discord-Axolotl%20BR-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.gg/axolotlbr)
 
-- **BF**
-- **C**
-- **C++**
-- **C#**
-- **Dart**
-- **Elixir**
-- **Go**
-- **Haskell**
-- **Java**
-- **JavaScript**
-- **Kotlin**
-- **Lua**
-- **ML**
-- **PHP**
-- **Perl**
-- **PowerShell**
-- **Python**
-- **R**
-- **Ruby**
-- **Shell Script**
-- **Swift**
-- **TypeScript**
-- **VBScript**
-
-## description in english
-
-# EN/US💻 Axolotl in MULTIPLE PROGRAMMING LANGUAGES!
-
-[Click here to join the Discord Axolotl BR ](https://dsc.gg/axolotlbr )
-
-This repository contains implementations of the "Axolotl!" concept in multiple programming languages. Each implementation demonstrates how "Axolotl!" can be expressed in different coding environments.
+> 🇧🇷 - Server do **Axolotl BR** — [Clique aqui para entrar](https://dsc.gg/axolotlbr)
+>
+> EN/US - This repository contains implementations of the "Axolotl!" concept in multiple programming languages. Each implementation demonstrates how "Axolotl!" can be expressed in different coding environments.
 
 ## Included Languages
 
-Currently, the following programming languages are included in this repository:
-
 - **BF**
 - **C**
 - **C++**
 - **C#**
+- **Crystal**
+- **D**
 - **Dart**
 - **Elixir**
+- **F#**
 - **Go**
 - **Haskell**
+- **Haxe**
 - **Java**
 - **JavaScript**
+- **Julia**
 - **Kotlin**
 - **Lua**
 - **ML**
+- **OCaml**
 - **PHP**
 - **Perl**
 - **PowerShell**
 - **Python**
 - **R**
 - **Ruby**
+- **Rust**
 - **Shell Script**
 - **Swift**
 - **TypeScript**
 - **VBScript**
+- **Zig**
+
+## Join the Community
+
+Come talk to us on the **Axolotl BR** Discord server! 🌟
+
+👉 [https://dsc.gg/axolotlbr](https://dsc.gg/axolotlbr)
