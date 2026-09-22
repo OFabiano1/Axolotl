@@ -46,10 +46,22 @@ Come talk to us on the **Axolotl BR** Discord server! 🌟
 
 👉 [https://dsc.gg/axolotlbr](https://dsc.gg/axolotlbr)
 
-Powered by Axolotl BR
+## Powered by Axolotl BR
 
-Axolotl is a project by Axolotl BR — an independent player-to-player company and community.
+**Axolotl** is a project by **Axolotl BR** — an independent player-to-player company and community.
 
-Axolotl BR ✦ Sua comunidade na internet.
+> **Axolotl BR ✦ Sua comunidade na internet.**
+>
+> *de player para player.*
 
-de player para player.
+
+
+
+
+
+
+
+
+
+
+---
